@@ -1,0 +1,31 @@
+.status {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    margin-right: 5px;
+  }
+
+  .isOnline {
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: rgb(28, 179, 53);
+  }
+  
+  .isOfline {
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: red;
+  }
+
+  .avatar {
+    width: 400px;
+    margin: 50px auto 0;
+  } 
+  .name { 
+    font-style:italic;
+  }
+  
